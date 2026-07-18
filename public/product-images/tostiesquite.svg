@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Tostiesquite">
+  <rect width="900" height="675" fill="#fff4d8"/>
+  <path d="M240 190h420l-45 350H285L240 190z" fill="#b93426"/>
+  <path d="M285 235h330l-28 260H313l-28-260z" fill="#f6bd2f"/>
+  <g fill="#ffd967" stroke="#8a5b10" stroke-width="5">
+    <circle cx="365" cy="310" r="22"/>
+    <circle cx="430" cy="290" r="22"/>
+    <circle cx="500" cy="320" r="22"/>
+    <circle cx="555" cy="285" r="22"/>
+    <circle cx="390" cy="395" r="22"/>
+    <circle cx="465" cy="385" r="22"/>
+    <circle cx="535" cy="425" r="22"/>
+  </g>
+  <path d="M315 245l-55-95 125 28 40-105 80 95 115-50-35 125z" fill="#f25b24"/>
+  <path d="M350 250c85-45 175-45 255 0" fill="none" stroke="#fffdf7" stroke-width="32" stroke-linecap="round"/>
+  <rect x="320" y="525" width="260" height="38" rx="19" fill="#214728"/>
+</svg>

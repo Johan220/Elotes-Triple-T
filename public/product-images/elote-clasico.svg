@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Elote clasico">
+  <rect width="900" height="675" fill="#fff4d8"/>
+  <rect x="0" y="500" width="900" height="175" fill="#356d38"/>
+  <ellipse cx="450" cy="360" rx="210" ry="245" fill="#ffd967"/>
+  <path d="M300 160c80 70 210 80 300 0 20 140-25 315-150 415-125-100-170-275-150-415z" fill="#f6bd2f"/>
+  <g fill="none" stroke="#b88418" stroke-width="12" opacity=".45">
+    <path d="M345 185c-30 120-20 250 35 365"/>
+    <path d="M450 145c-15 130-15 285 0 430"/>
+    <path d="M555 185c30 120 20 250-35 365"/>
+    <path d="M300 265c95 35 205 35 300 0"/>
+    <path d="M290 365c105 38 215 38 320 0"/>
+    <path d="M325 465c80 32 170 32 250 0"/>
+  </g>
+  <path d="M225 530c90-130 225-155 225-155s135 25 225 155c-145-35-305-35-450 0z" fill="#214728"/>
+  <circle cx="620" cy="185" r="42" fill="#b93426"/>
+  <circle cx="680" cy="235" r="24" fill="#b93426"/>
+</svg>

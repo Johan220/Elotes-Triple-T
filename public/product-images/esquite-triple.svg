@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Esquite Triple T">
+  <rect width="900" height="675" fill="#fff8ec"/>
+  <rect x="0" y="505" width="900" height="170" fill="#b93426"/>
+  <path d="M285 190h330l-42 360H327L285 190z" fill="#fffdf7" stroke="#214728" stroke-width="18"/>
+  <path d="M320 255h260l-28 250H348l-28-250z" fill="#ffd967"/>
+  <g fill="#f6bd2f" stroke="#b88418" stroke-width="5">
+    <circle cx="370" cy="315" r="24"/>
+    <circle cx="430" cy="300" r="24"/>
+    <circle cx="490" cy="322" r="24"/>
+    <circle cx="540" cy="290" r="24"/>
+    <circle cx="390" cy="390" r="24"/>
+    <circle cx="460" cy="380" r="24"/>
+    <circle cx="525" cy="415" r="24"/>
+    <circle cx="420" cy="455" r="24"/>
+  </g>
+  <path d="M315 245c80-55 195-55 270 0" fill="none" stroke="#fff" stroke-width="36" stroke-linecap="round"/>
+  <path d="M575 145l110 65-150 250-55-32 95-283z" fill="#356d38"/>
+  <path d="M610 160l45 27-118 197-28-17 101-207z" fill="#dfe8c8"/>
+</svg>

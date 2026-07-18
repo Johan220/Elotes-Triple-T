@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Esquite chico">
+  <rect width="900" height="675" fill="#fff8ec"/>
+  <rect x="0" y="510" width="900" height="165" fill="#214728"/>
+  <path d="M330 235h240l-35 310H365l-35-310z" fill="#fffdf7" stroke="#356d38" stroke-width="16"/>
+  <path d="M355 290h190l-22 220H377l-22-220z" fill="#ffd967"/>
+  <g fill="#f6bd2f" stroke="#b88418" stroke-width="5">
+    <circle cx="395" cy="340" r="20"/>
+    <circle cx="450" cy="325" r="20"/>
+    <circle cx="505" cy="355" r="20"/>
+    <circle cx="415" cy="415" r="20"/>
+    <circle cx="480" cy="435" r="20"/>
+  </g>
+  <path d="M360 285c55-38 125-38 180 0" fill="none" stroke="#fff" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="590" cy="190" r="36" fill="#b93426"/>
+  <circle cx="625" cy="235" r="20" fill="#b93426"/>
+</svg>

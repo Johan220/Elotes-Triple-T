@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Elote flamin">
+  <rect width="900" height="675" fill="#ffe9d3"/>
+  <path d="M520 95c125 85 185 195 155 320-28 117-130 190-240 178-125-14-205-106-195-230 7-95 65-150 125-205 25 65 80 86 155-63z" fill="#b93426"/>
+  <path d="M490 185c75 62 100 130 78 205-20 70-78 110-145 105-72-7-122-62-112-135 8-60 50-92 88-130 15 38 50 50 91-45z" fill="#f6bd2f"/>
+  <ellipse cx="455" cy="410" rx="210" ry="115" fill="#ffd967" stroke="#8a5b10" stroke-width="14"/>
+  <g fill="#b93426">
+    <circle cx="345" cy="390" r="18"/>
+    <circle cx="395" cy="440" r="16"/>
+    <circle cx="455" cy="380" r="17"/>
+    <circle cx="520" cy="440" r="16"/>
+    <circle cx="575" cy="395" r="18"/>
+  </g>
+  <path d="M285 500c110 80 235 80 345 0" fill="none" stroke="#214728" stroke-width="42" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-label="Agua de horchata">
+  <rect width="900" height="675" fill="#eef6df"/>
+  <rect x="0" y="500" width="900" height="175" fill="#356d38"/>
+  <path d="M340 135h220l-35 430H375L340 135z" fill="#fffdf7" stroke="#214728" stroke-width="16"/>
+  <path d="M365 240h170l-24 290H389l-24-290z" fill="#f7e3b0"/>
+  <path d="M345 200h210" stroke="#b93426" stroke-width="24" stroke-linecap="round"/>
+  <path d="M510 120l95-70" stroke="#b93426" stroke-width="16" stroke-linecap="round"/>
+  <g stroke="#b88418" stroke-width="10" stroke-linecap="round">
+    <path d="M410 300l65 65"/>
+    <path d="M475 300l-65 65"/>
+    <path d="M430 420l55 55"/>
+    <path d="M485 420l-55 55"/>
+  </g>
+</svg>
