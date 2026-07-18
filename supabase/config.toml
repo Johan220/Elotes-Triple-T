@@ -1,0 +1,2 @@
+[functions.triple-t-chat]
+verify_jwt = false

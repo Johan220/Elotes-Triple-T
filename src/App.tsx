@@ -12,6 +12,7 @@ import {
 } from 'lucide-react';
 import { BotonCarrito, Carrito } from './components/Carrito';
 import { Tarjetas } from './components/Tarjetas';
+import { TripleT } from './components/TripleT';
 import { Usuario } from './components/Usuario';
 import { isSupabaseConfigured, supabase } from './lib/supabase';
 import {
@@ -310,6 +311,8 @@ export default function App() {
         <span>Elotes Triple T</span>
         <span>Preparado con maíz, limón y mucho antojo.</span>
       </footer>
+
+      <TripleT />
 
       {adminOpen && (
         <section className="admin-overlay" aria-modal="true" role="dialog">
